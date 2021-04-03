@@ -9,9 +9,9 @@ class Cringekid:
     def set_age(self, x):
         self._age = x
   
-jason = Geek()
+jason = Cringekid()
   
-jason.set_age(21)
+jason.set_age(16)
   
 print(jason.get_age())
   
